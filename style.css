@@ -1,0 +1,27 @@
+* {
+  text-align: center;
+}
+
+header p {
+  color: rgb(62, 61, 61);
+}
+
+.container {
+  margin-top: 35px;
+}
+.container .alert {
+  font-size: 20px;
+  margin: 20px auto;
+}
+.container .justify-content-center {
+  margin-top: 10px;
+}
+.container .justify-content-center .quiz-number {
+  text-shadow: 3px 3px rgb(166, 165, 165);
+}
+.container .justify-content-center .btn {
+  font-size: 20px;
+  margin-top: 15px;
+  padding: 20px;
+  width: 300px;
+}/*# sourceMappingURL=style.css.map */
